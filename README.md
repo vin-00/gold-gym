@@ -37,5 +37,5 @@ To run this project locally, clone the github repo and run npm i to download the
 
 ## Contact
 
-For any inquiries or issues, please contact us at [winkhatri292004gmail.com]
----Report any bugs and enjoy the application and stay fit .
+- For any inquiries or issues, please contact us at winkhatri292004gmail.com
+- Report any bugs and enjoy the application and stay fit .

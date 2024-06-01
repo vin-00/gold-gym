@@ -1,5 +1,5 @@
 # Gold-gym
-## [Website](gold-gym-781fa2.netlify.app)
+## [Website](https://gold-gym-781fa2.netlify.app/)
 
 # Gold Gym Exercise Search API Web Application
 
